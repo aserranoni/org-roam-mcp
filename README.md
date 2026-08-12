@@ -1,3 +1,5 @@
+
+
 # Org-roam MCP Server
 
 A Model Context Protocol (MCP) server that enables Claude Code and other MCP clients to interact with your org-roam knowledge base.
@@ -200,7 +202,7 @@ Your note content here...
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.10+
 - Existing org-roam setup with SQLite database
 - Read/write access to your org-roam directory
 
